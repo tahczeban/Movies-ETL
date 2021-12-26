@@ -2,7 +2,7 @@
 
 ***RESOURCES***
 
-
+jSON, Pandas, Numpy, SQL, pgAmin, psycopq2
 
 ***OVERVIEW***
 
@@ -12,3 +12,9 @@
 
 
 ***SUMMARY***
+
+
+
+***REFERENCES*** 
+
+google, stackOverflow, GitHub, BSC
