@@ -5,7 +5,7 @@
 Python, Anaconda, jSON, Pandas, Numpy, PostgreSQL, pgAmin, psycopq2
 
 ***OVERVIEW***
-Amazing Prime, hackathon
+Amazing Prime, hackathonAmazing Prime, hackathon for a hacking competition to extract csv, jSON files, transform data via cleaning, filling missing values, transforming data via filetering, formatting, classifying, merging data into a dataframe that was then loaded into SQL for appropriate tables
 automated pipeline
 
 ***RESULTS***
