@@ -1,8 +1,13 @@
 # Movies_ETL
 
+![image](https://user-images.githubusercontent.com/90135381/158722665-eb2e3b03-0a74-4629-b547-44f6b8eb2c6e.jpeg)
+
+
+
 ***RESOURCES***
 
 Python, Anaconda, jSON, Pandas, Numpy, PostgreSQL, pgAmin, psycopq2
+IMAGE: obtained from: https://pngtree.com/freepng/popcorn-movie-film_2704218.html
 
 ***OVERVIEW***
 The purpose of this assignment was to assist Britta from Amazing Prime to prepare for a hackathon via:
